@@ -1,4 +1,6 @@
-# App1
+# App1 - Learning English
+
+Project developed with angular for academic purposes.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.0-beta.2.
 
